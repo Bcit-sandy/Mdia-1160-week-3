@@ -1,0 +1,2 @@
+const weather = "sunny"
+console.log (" The" + weather "outside was an ever-shifting spectacle, with the" + weather changing from a crisp, sunny morning to an unpredictable afternoon storm. As the "weather turned, dark clouds rolled in, and the weather forecast warned of heavy rain and gusty winds. By evening, the weather had settled into a calm, misty drizzle, making it clear that the weather could never be quite pinned down. Each day brought a new weather pattern, reminding everyone of the whimsical nature of the weather. ")
